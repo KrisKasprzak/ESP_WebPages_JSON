@@ -2,7 +2,7 @@
 
 ![ESP32 Create and Edit Web Pages using JSON](Images/YouTubeThumbnail.png)
 
-> 🎬 **Video coming soon!** A YouTube video walking through this project (the code, the JSON data exchange, and the fan circuit) is on the way. A link will be posted here when it's live.
+> 🎬 YouTube Video! https://youtu.be/FZ0HzFctXFk
 
 Host a modern, mobile-friendly web page on an ESP32 that shows **live sensor data** and lets you **control outputs** from any browser (PC, tablet, smartphone, or smart TV). Only the changed data is sent: the page asks the ESP32 for a small JSON message every 100 ms and updates values in place, with no page reloads and no flicker.
 
